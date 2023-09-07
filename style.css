@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width:50%;
+    height: 200px;
+    border: 1px solid green;
+    margin: auto;
+    margin-top:10rem;
+}
+.content-display{
+    margin: auto;
+    height: inherit;
+
+}
+.generate-btn{
+    margin: auto;
+}
+#btn{
+    margin: 10px 170px;
+    width: 50%;
+}
+.jpara{
+    text-align: center;
+    margin: 20px auto ;
+}
